@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zmy:home|Door43 (zmy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zmy|d43-zmy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zmy/archive/master.zip|d43-zmy.zip]]
+
+**Recent Changes**
+{{changes>ns = zmy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zmy|Ethnologue data]]
+
